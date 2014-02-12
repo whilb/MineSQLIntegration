@@ -1,0 +1,12 @@
+name: MineSQLIntegration
+version: 1.0 (1.7.4)
+description: Example for Integrating MineSQLAPI into a Bukkit Plugin
+author: hatten33
+
+main: net.aerenserve.example.MyDatabasePlugin
+
+commands:
+  listusers: 
+    description: List the users in the database
+
+
